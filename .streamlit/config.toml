@@ -1,0 +1,11 @@
+# Streamlit settings for CrashLens: colors and the viewer toolbar.
+
+[theme]
+base = "light"
+primaryColor = "#ff0000"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#eff1ea"
+textColor = "#1F2430"
+[client]
+# Hides Streamlit's developer "Deploy" button and menu items from visitors.
+toolbarMode = "viewer"

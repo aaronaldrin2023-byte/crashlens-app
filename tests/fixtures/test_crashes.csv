@@ -1,0 +1,21 @@
+CrashId,Town Name,Roadway Name,Intersecting Roadway Name,Most Severe Injury,Latitude,Longitude,Month,Day of the Week Text Format,Hour of the Day,Manner of Crash / Collision Impact Text Format
+1001,South Windsor,Buckland Rd,,O,41.83634364244113,-72.56652566263062,7,Monday,8,Rear-end
+1002,South Windsor,Buckland Rd,,O,41.839954350870926,-72.57050508935211,6,Thursday,6,Rear-end
+1003,South Windsor,Buckland Rd,,O,41.83987856656525,-72.56606682957441,4,Thursday,19,Rear-end
+1004,South Windsor,Buckland Rd,,B,41.84195832866769,-72.57233669439542,7,Tuesday,18,Rear-end
+1005,South Windsor,Buckland Rd,,C,41.84401427457612,-72.57469410016965,1,Saturday,17,Rear-end
+1006,SOUTH WINDSOR ,BUCKLAND ROAD,,O,41.84439149162779,-72.57118795762311,2,Thursday,23,Rear-end
+1007,SOUTH WINDSOR ,BUCKLAND ROAD,,A,41.84027629414363,-72.56736299004868,4,Friday,7,"Sideswipe, Same Direction"
+1008,SOUTH WINDSOR ,BUCKLAND ROAD,,O,41.837308665415414,-72.57281218962662,4,Wednesday,0,Fixed Object
+1009,South Windsor,Buckland Rd,Sullivan Ave,O,41.84337577975663,-72.56943545677346,6,Monday,5,"Sideswipe, Same Direction"
+1010,South Windsor,Sullivan Avenue,Buckland Road,K,41.83620889959806,-72.5716730481464,6,Saturday,16,Fixed Object
+1011,South Windsor,Rye St,,O,41.84007717250512,-72.5658981494106,2,Wednesday,9,Fixed Object
+1012,South Windsor,Rye St,,B,41.84346197418429,-72.5699471617942,5,Sunday,1,Fixed Object
+1013,South Windsor,Rye St,,,41.83742739973543,-72.56702595752445,4,Saturday,5,"Sideswipe, Same Direction"
+1014,South Windsor,Rye St,,,41.84048798761388,-72.56796959237934,6,Saturday,11,Rear-end
+1015,South Windsor,Pleasant Valley Rd,,O,41.83938961630045,-72.56991573511749,7,Tuesday,16,Fixed Object
+1016,South Windsor,Pleasant Valley Rd,,C,41.83870522666646,-72.56767234191078,4,Monday,9,Fixed Object
+1017,South Windsor,Pleasant Valley Rd,,O,,,6,Tuesday,5,Angle
+1018,South Windsor,Sullivan Ave,,O,41.84482076637539,-72.56729476860168,5,Sunday,17,Angle
+1019,South Windsor,Sullivan Ave,,B,41.8390445486839,-72.5715617410874,7,Friday,11,Fixed Object
+1001,South Windsor,Buckland Rd,,O,41.83634364244113,-72.56652566263062,7,Monday,8,Rear-end
